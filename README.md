@@ -9,7 +9,7 @@
 
 - 👨‍💻 Some of my projects are also at [https://gitlab.com/surajsharma](https://gitlab.com/surajsharma)
 
-- 📝 I regulary write articles on [evenzero.in](evenzero.in)
+- 📝 I ~~regulary~~ write articles on [evenzero.in](evenzero.in)
 
 - 💬 Ask me about **react, webpack, babel, edutech**
 
