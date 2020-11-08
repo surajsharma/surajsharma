@@ -2,64 +2,39 @@ evenzero.in
 <details>
   <summary>Image Tabular Data to Interactive Excel Sheet </summary>
   <img src="https://puu.sh/GAhkc/2a1da7e7c3.gif"/>
-  Netra: (http://netra.singularium.in/) - A multi-industry, context-aware, image/pdf-to-data ML engine created by [Singularium](http://netra.singularium.in/) needed a robust frontend, I joined the team and helped them flesh out a deliverable UI/UX within 3 months. A useful B2B tool for turning unstructred data to structured data, Netra has applications in Retail, Medicine, Catering and Education verticals, among others. Using the [Zustand](https://github.com/pmndrs/zustand) library in a non-singleton manner for state management (sorry flux/redux), I was able to work with large images and lots of SVG annotations, while processing coordinates expressed in different coordinate systems over a REST API. The turnkey solution included authentication and OTP-based registration. An excel-like table within the app was made possible with the wonderful [jExcel](https://bossanova.uk/jexcel/v4/). | ![Watch the video](https://puu.sh/GAhkc/2a1da7e7c3.gif) **Stack**: React/Zustand, react-router, Styled-Components, jexcel, chakra-ui, rsuite |
  </details>
+
 <details>
   <summary>React "Bucket" classification</summary>
   <img src="https://puu.sh/FWhlQ/c5e1e384a8.gif"/>
  </details>
-
-- React/SVG Crossword with backend
+ 
 <details>
-  <summary>Image Tabular Data to Interactive Excel Sheet </summary>
-  <img src="https://puu.sh/GAhkc/2a1da7e7c3.gif"/>
-  Netra: (http://netra.singularium.in/) - A multi-industry, context-aware, image/pdf-to-data ML engine created by [Singularium](http://netra.singularium.in/) needed a robust frontend, I joined the team and helped them flesh out a deliverable UI/UX within 3 months. A useful B2B tool for turning unstructred data to structured data, Netra has applications in Retail, Medicine, Catering and Education verticals, among others. Using the [Zustand](https://github.com/pmndrs/zustand) library in a non-singleton manner for state management (sorry flux/redux), I was able to work with large images and lots of SVG annotations, while processing coordinates expressed in different coordinate systems over a REST API. The turnkey solution included authentication and OTP-based registration. An excel-like table within the app was made possible with the wonderful [jExcel](https://bossanova.uk/jexcel/v4/). | ![Watch the video](https://puu.sh/GAhkc/2a1da7e7c3.gif) **Stack**: React/Zustand, react-router, Styled-Components, jexcel, chakra-ui, rsuite |
+  <summary>React/SVG Crossword with backend</summary>
+  <img src="https://camo.githubusercontent.com/ad84cb37b7fe30198eb4379a51824b0b7bcc0546a550473cc060ffeb141386fd/68747470733a2f2f7075752e73682f4657686d4b2f303031376161633266642e676966"/>
  </details>
 
-
-- "Match-the-Following" Puzzle in React 
 <details>
-  <summary>Image Tabular Data to Interactive Excel Sheet </summary>
-  <img src="https://puu.sh/GAhkc/2a1da7e7c3.gif"/>
-  Netra: (http://netra.singularium.in/) - A multi-industry, context-aware, image/pdf-to-data ML engine created by [Singularium](http://netra.singularium.in/) needed a robust frontend, I joined the team and helped them flesh out a deliverable UI/UX within 3 months. A useful B2B tool for turning unstructred data to structured data, Netra has applications in Retail, Medicine, Catering and Education verticals, among others. Using the [Zustand](https://github.com/pmndrs/zustand) library in a non-singleton manner for state management (sorry flux/redux), I was able to work with large images and lots of SVG annotations, while processing coordinates expressed in different coordinate systems over a REST API. The turnkey solution included authentication and OTP-based registration. An excel-like table within the app was made possible with the wonderful [jExcel](https://bossanova.uk/jexcel/v4/). | ![Watch the video](https://puu.sh/GAhkc/2a1da7e7c3.gif) **Stack**: React/Zustand, react-router, Styled-Components, jexcel, chakra-ui, rsuite |
+  <summary>"Match-the-Following" Puzzle in React </summary>
+  <img src="https://camo.githubusercontent.com/5083e1ba7a859212fdde7a0568010ecbf7da84d6106c1c9a763805744d247d59/68747470733a2f2f7075752e73682f4657686c362f363139316333343134322e676966"/>
  </details>
 
-
-- Minesweeper in Typescript
 <details>
-  <summary>Image Tabular Data to Interactive Excel Sheet </summary>
-  <img src="https://puu.sh/GAhkc/2a1da7e7c3.gif"/>
-  Netra: (http://netra.singularium.in/) - A multi-industry, context-aware, image/pdf-to-data ML engine created by [Singularium](http://netra.singularium.in/) needed a robust frontend, I joined the team and helped them flesh out a deliverable UI/UX within 3 months. A useful B2B tool for turning unstructred data to structured data, Netra has applications in Retail, Medicine, Catering and Education verticals, among others. Using the [Zustand](https://github.com/pmndrs/zustand) library in a non-singleton manner for state management (sorry flux/redux), I was able to work with large images and lots of SVG annotations, while processing coordinates expressed in different coordinate systems over a REST API. The turnkey solution included authentication and OTP-based registration. An excel-like table within the app was made possible with the wonderful [jExcel](https://bossanova.uk/jexcel/v4/). | ![Watch the video](https://puu.sh/GAhkc/2a1da7e7c3.gif) **Stack**: React/Zustand, react-router, Styled-Components, jexcel, chakra-ui, rsuite |
+  <summary>Minesweeper in Typescript</summary>
+  <img src="https://camo.githubusercontent.com/f68531f87d7d62e9d98966ca4a59c9cc61fa7ebe/68747470733a2f2f692e696d6775722e636f6d2f376a4a4b6962622e676966"/> </details>
+
+<details>
+  <summary>Calendar in React</summary>
+  <img src="https://camo.githubusercontent.com/78ea58ce2bcbfacd6c3ae9722efa3cf29e853ff9197c35d15737f498aa72dae5/68747470733a2f2f7075752e73682f456e73597a2f316464363938613637622e706e67"/>
  </details>
 
-
-- Calendar in React
 <details>
-  <summary>Image Tabular Data to Interactive Excel Sheet </summary>
-  <img src="https://puu.sh/GAhkc/2a1da7e7c3.gif"/>
-  Netra: (http://netra.singularium.in/) - A multi-industry, context-aware, image/pdf-to-data ML engine created by [Singularium](http://netra.singularium.in/) needed a robust frontend, I joined the team and helped them flesh out a deliverable UI/UX within 3 months. A useful B2B tool for turning unstructred data to structured data, Netra has applications in Retail, Medicine, Catering and Education verticals, among others. Using the [Zustand](https://github.com/pmndrs/zustand) library in a non-singleton manner for state management (sorry flux/redux), I was able to work with large images and lots of SVG annotations, while processing coordinates expressed in different coordinate systems over a REST API. The turnkey solution included authentication and OTP-based registration. An excel-like table within the app was made possible with the wonderful [jExcel](https://bossanova.uk/jexcel/v4/). | ![Watch the video](https://puu.sh/GAhkc/2a1da7e7c3.gif) **Stack**: React/Zustand, react-router, Styled-Components, jexcel, chakra-ui, rsuite |
+  <summary>Mutual Fund Basic Dashboard with search and filter (React)</summary>
+  <img src="https://camo.githubusercontent.com/444faa960733481292101ea6649986276e39063048a4f5f426bf7f51c50b50ab/68747470733a2f2f7075752e73682f46327350622f646162396337633930662e706e67"/>
  </details>
 
-
-- Mutual Fund Basic Dashboard with search and filter (React)
 <details>
-  <summary>Image Tabular Data to Interactive Excel Sheet </summary>
-  <img src="https://puu.sh/GAhkc/2a1da7e7c3.gif"/>
-  Netra: (http://netra.singularium.in/) - A multi-industry, context-aware, image/pdf-to-data ML engine created by [Singularium](http://netra.singularium.in/) needed a robust frontend, I joined the team and helped them flesh out a deliverable UI/UX within 3 months. A useful B2B tool for turning unstructred data to structured data, Netra has applications in Retail, Medicine, Catering and Education verticals, among others. Using the [Zustand](https://github.com/pmndrs/zustand) library in a non-singleton manner for state management (sorry flux/redux), I was able to work with large images and lots of SVG annotations, while processing coordinates expressed in different coordinate systems over a REST API. The turnkey solution included authentication and OTP-based registration. An excel-like table within the app was made possible with the wonderful [jExcel](https://bossanova.uk/jexcel/v4/). | ![Watch the video](https://puu.sh/GAhkc/2a1da7e7c3.gif) **Stack**: React/Zustand, react-router, Styled-Components, jexcel, chakra-ui, rsuite |
+  <summary>Full-Stack WhatsApp Scraper and Tagger</summary>
+  <img src="https://puu.sh/FWALG/25d2d735e4.gif"/>
  </details>
 
-
-- Full-Stack WhatsApp Scraper and Tagger
-<details>
-  <summary>Image Tabular Data to Interactive Excel Sheet </summary>
-  <img src="https://puu.sh/GAhkc/2a1da7e7c3.gif"/>
-  Netra: (http://netra.singularium.in/) - A multi-industry, context-aware, image/pdf-to-data ML engine created by [Singularium](http://netra.singularium.in/) needed a robust frontend, I joined the team and helped them flesh out a deliverable UI/UX within 3 months. A useful B2B tool for turning unstructred data to structured data, Netra has applications in Retail, Medicine, Catering and Education verticals, among others. Using the [Zustand](https://github.com/pmndrs/zustand) library in a non-singleton manner for state management (sorry flux/redux), I was able to work with large images and lots of SVG annotations, while processing coordinates expressed in different coordinate systems over a REST API. The turnkey solution included authentication and OTP-based registration. An excel-like table within the app was made possible with the wonderful [jExcel](https://bossanova.uk/jexcel/v4/). | ![Watch the video](https://puu.sh/GAhkc/2a1da7e7c3.gif) **Stack**: React/Zustand, react-router, Styled-Components, jexcel, chakra-ui, rsuite |
- </details>
-
-![](https://puu.sh/FWhmK/0017aac2fd.gif)
-![](https://puu.sh/FWhlQ/c5e1e384a8.gif)
-![](https://puu.sh/FWhl6/6191c34142.gif)
-![](https://camo.githubusercontent.com/f68531f87d7d62e9d98966ca4a59c9cc61fa7ebe/68747470733a2f2f692e696d6775722e636f6d2f376a4a4b6962622e676966)
-![](https://puu.sh/EnsYz/1dd698a67b.png)
-![](https://puu.sh/F2sPb/dab9c7c90f.png)
-![](https://puu.sh/FWALG/25d2d735e4.gif)
