@@ -1,5 +1,10 @@
 evenzero.in
 <details>
+  <summary>Limit Console - full stack AWS Amplify app (GraphQL/DynamoDb) </summary>
+  <img src="https://puu.sh/Hitmm/08ffc40b8a.gif"/>
+ </details>
+
+<details>
   <summary>Image Tabular Data to Interactive Excel Sheet </summary>
   <img src="https://puu.sh/GAhkc/2a1da7e7c3.gif"/>
  </details>
