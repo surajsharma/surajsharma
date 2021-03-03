@@ -1,7 +1,7 @@
 evenzero.in
 <details>
   <summary>Limit Console - full stack AWS Amplify app (GraphQL/DynamoDb) </summary>
-  <img src="https://puu.sh/Hitmm/08ffc40b8a.gif"/>
+  <img src="https://puu.sh/Hitmm/08ffc40b8a.gif" />
  </details>
 
 <details>
