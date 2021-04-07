@@ -1,10 +1,16 @@
 evenzero.in
 
+
+<details>
+  <summary>Full Stack AWS Amplify app (graphql, dynamodb, react) </summary>
+  <img src="https://puu.sh/HslRh/787bc72c85.gif"/>
+ </details>
+
 <details>
   <summary>Image Tabular Data to Interactive Excel Sheet </summary>
   <img src="https://puu.sh/GAhkc/2a1da7e7c3.gif"/>
  </details>
-
+ 
 <details>
   <summary>React "Bucket" classification</summary>
   <img src="https://puu.sh/FWhlQ/c5e1e384a8.gif"/>
