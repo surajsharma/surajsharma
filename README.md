@@ -2,7 +2,7 @@ evenzero.in
 
 
 <details>
-  <summary>Full Stack AWS Amplify app (graphql, dynamodb, react) </summary>
+  <summary>Full Stack AWS Amplify app (graphql, AWS: app-service, cognito (auth), dynamodb, react) </summary>
   <img src="https://puu.sh/HslRh/787bc72c85.gif"/>
  </details>
 
