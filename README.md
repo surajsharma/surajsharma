@@ -5,7 +5,7 @@
                                                                             
 </pre>
 
-| Project | Stack | Demo Image
+| Project | Stack | Demo Image (Click on the arrow)
 | -|-|-|
 | 📰 &nbsp; React/SVG Crossword with backend | ReactJS, JSON |<details><summary>gif</summary><img src="https://camo.githubusercontent.com/ad84cb37b7fe30198eb4379a51824b0b7bcc0546a550473cc060ffeb141386fd/68747470733a2f2f7075752e73682f4657686d4b2f303031376161633266642e676966"/> </details>  |
 | 🎟 &nbsp; Full Stack AWS Amplify app (graphql, AWS: app-service, cognito (auth), dynamodb, react)|React/Redux, react-router, Styled-Components, DynamoDb, AWS Amplify, AWS App-Sync, GraphQL, chakra-ui, JSON |<details><summary>gif </summary><img src="https://puu.sh/HslRh/787bc72c85.gif"/></details> |
