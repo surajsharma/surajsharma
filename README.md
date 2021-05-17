@@ -5,7 +5,7 @@
                                                                             
 </pre>
 
-| Project | Stack | Demo Image (Click on the arrow)
+| Project | Stack | Demo Image
 | -|-|-|
 | 📰 &nbsp; [React/SVG Crossword with backend](https://www.socratease.in/) | ReactJS, JSON |<details><summary>gif</summary><img src="https://ucb0b40175d0d1ba58702b7ee9b8.previews.dropboxusercontent.com/p/orig/ABLb1nbpw-gVn6lMqhwsYVotXxjsRzek_kZl-31I9LKCb3_fRd78W5JiE55z4CJZF7KG0l1ts0fetgIPuopwnIQYTyMBO6aRzofWGy7VOAZYeX7YmbhyG9EoNvtbuMYNXCnwS5CJAz0TQQQADQi6Ns5K8eR2IHUt0PZdZs8U3Y6P6ZjU1KCoIyMg_XGptxyKSDssmCsyy7fi4_PM2kpNPybH6kcpwogY-RvQuF8LlCutS-RGWnDprdPIgl4iHZWX1Fx-ksg8GoHhvK6Ydwvb47a1no5M__B4yRy3tduZ9R97pA8Tagy4PE14sgez-AhzJM2vnTsDKCszCIqTE5WmQdIPYrvq5O_lpGQm6rIldw2Xx4HV8UVZYNZi5WGGs46XrIE/p.gif"/> </details>  |
 | 🎟 &nbsp; [Full Stack AWS Amplify app](https://salesbeat.co) (graphql, AWS: app-service, cognito (auth), dynamodb, react)|React/Redux, react-router, Styled-Components, DynamoDb, AWS Amplify, AWS App-Sync, GraphQL, chakra-ui, JSON |<details><summary>gif </summary><img src="https://puu.sh/HslRh/787bc72c85.gif"/></details> |
