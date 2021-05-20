@@ -1,8 +1,9 @@
- <sup><a href="http://evenzero.in" target="_blank">evenzero.in</a></sup>
+
+<sup><a href="http://evenzero.in" target="_blank">evenzero.in</a></sup>
 ![evenzero.in](https://puu.sh/HIiu1/e6cbea5d8d.gif)
 
 <details>
-<summary>Some Projects</summary>
+<summary>Some Projects 🪀</summary>
  
 | Project | Stack | Demo Image
 | -|-|-|
