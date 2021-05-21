@@ -1,6 +1,4 @@
-
-<sup><a href="http://evenzero.in" target="_blank">evenzero.in</a></sup>
-![evenzero.in](https://puu.sh/HIiu1/e6cbea5d8d.gif)
+<img src="header.svg"></img>
 
 <details>
 <summary>Some Projects 🪀</summary>
@@ -19,4 +17,3 @@
 | 📈 &nbsp;  [Mutual Fund Basic Dashboard](https://github.com/surajsharma/Amfi-Dashboard)| ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br /> <sup>Highcharts, Data from Quandl</sup>|<details><summary>jpg</summary><img src="https://camo.githubusercontent.com/444faa960733481292101ea6649986276e39063048a4f5f426bf7f51c50b50ab/68747470733a2f2f7075752e73682f46327350622f646162396337633930662e706e67"/></details>
  
  </details>
- 
