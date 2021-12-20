@@ -1,3 +1,5 @@
+CV ([pdf](https://github.com/surajsharma/surajsharma/blob/main/CV_Suraj_2021/CV.pdf) | [LaTeX](https://github.com/surajsharma/surajsharma/blob/main/CV_Suraj_2021/cv_2.tex))
+
 <details>
 <summary>Some Projects 🪀</summary>
  
