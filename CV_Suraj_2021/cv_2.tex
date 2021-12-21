@@ -1,6 +1,15 @@
 \documentclass[margin, 10pt]{res} % Use the res.cls style, the font size can be changed to 11pt or 12pt here
 \usepackage{helvet} % Default font is the helvetica postscript font
 %\usepackage{newcent} % To change the default font to the new century schoolbook postscript font uncomment this line and comment the one above
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    urlcolor=blue
+    }
+
+\urlstyle{same}
+
 \setlength{\textwidth}{5.1in} % Text width of the document
 \begin{document}
 
@@ -13,8 +22,8 @@
 \moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip % Horizontal line after name; adjust line thickness by changing the '1pt'
 \moveleft.5\hoffset\centerline{Himachal Pradesh, India 175131}
 \moveleft.5\hoffset\centerline{+91 9108103295}
-\moveleft.5\hoffset\centerline{suraj@evenzero.in}
-\moveleft.5\hoffset\centerline{https://www.linkedin.com/in/even0/}
+\moveleft.5\hoffset\centerline {\url{suraj@evenzero.in}}
+\moveleft.5\hoffset\centerline{\url{https://www.linkedin.com/in/even0/}}
 %----------------------------------------------------------------------------------------
 
 \begin{resume}
@@ -31,7 +40,7 @@ To engage my disruptive skill-set in the service of technological singularity.
 
 \section{TECHNOLOGY \\ SKILLS} 
 
-{\sl Speciality:} Front-end, Design, Media \& Communication \\
+{\sl Speciality:} Front-end, Design, Media, and Communication \\
 {\sl Languages:} JavaScript/TypeScript, Python, C/C++, Processing, Bash\\
 {\sl Operations:} Azure, AWS, GCP, Cloudflare, Heroku, Docker
 
@@ -46,10 +55,11 @@ To engage my disruptive skill-set in the service of technological singularity.
 \item Shipping open-source, commercial, and bespoke products independently.
 \item Clients:
 \begin{itemize}
-\item Singularium, Bengaluru - Product front-end for an Azure cognitive service.
-\item Salesbeat, UK - Full Stack project for sales automation SAAS product.
-\item Able, Hyderabad - Full stack project with a premier agency.
-\item Tattle Civic, Academia - Open source Full-stack WhatsApp Scraper with headless CMS for fake news/misinformation archiving project. 
+\item {\sl Swym}, Texas - Merchant scorecard module for shopify dashboard.
+\item {\sl Tattle}, New Delhi - Open source Full-stack WhatsApp Scraper with headless CMS for fake news/misinformation archiving project. 
+\item {\sl Salesbeat}, UK - Full Stack project for sales automation SAAS product.
+\item {\sl Able}, Hyderabad - Full stack project with a premier agency.
+\item {\sl Singularium}, Bengaluru - Product front-end for an Azure cognitive service.
 \end{itemize}
 \end{itemize}
 {\sl Independent Contractor} \hfill May 2019 – Jun 2020 \\
@@ -129,9 +139,8 @@ Punjab Technical University, Jalandhar
 
 \section{HOBBIES}
 \begin{itemize}
-\item Reading and writing poetry, philosophy, fiction and aphorisms
+\item Reading and writing poetry, philosophy, fiction, aphorisms
 \item Playing the flute
-\item Producing video essays
 \end{itemize}
 
 \section{REFERENCES}
