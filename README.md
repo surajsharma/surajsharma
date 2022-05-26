@@ -3,7 +3,7 @@ CV ([pdf](https://github.com/surajsharma/surajsharma/blob/main/CV_Suraj_2022/CV.
 <details>
 <summary>Some Projects 🪀</summary>
  
-| Project | Stack | Demo Image
+| Project | Stack | Demo Image / URL
 | -|-|-|
 | 🌵 &nbsp; [Fintech Primitives](https://fintechprimitives.com/) |![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)| <details>https://fintechprimitives.com/</details> | 
 | 🌵 &nbsp; [Evenzero.in](http://evenzero.in) | ![jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)  ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![scss](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)  | <details><summary>gif</summary><img src="https://puu.sh/I3imk/00269e392d.gif"/> </details> | 
